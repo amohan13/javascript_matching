@@ -1,0 +1,14 @@
+{
+  "base_document": {
+    "word_count": 1352
+  },
+  "test_document": {
+    "word_count": 1653
+  },
+  "match": {
+    "matching": -80.27027027027027
+  },
+  "spell": {
+    "spelling": 2
+  }
+}
